@@ -1,36 +1,43 @@
 # Pedro Antonio Ruiz Cuesta
 
-**Senior Android Developer** — building on a strong Kotlin foundation and extending it to the backend.
+**Senior Android Developer** — 9+ years building and scaling mobile products with Kotlin.
 
 ## About me
 
-Senior Android developer with 9+ years of experience shipping production mobile apps.
-I work in Kotlin every day, and I'm now extending that foundation to backend development —
-applying clean architecture, solid API design, and automated testing to the server side.
-My goal is to become a well-rounded engineer who can own a product end to end, from the API
-to the mobile clients.
+Senior Android developer with 9+ years of experience building and scaling mobile products,
+from early-stage architecture to apps with 10M+ downloads. I've led technical migrations,
+mentored developers, and contributed to key product decisions while staying hands-on with
+code. Clean architecture, modularization, and solid testing are at the core of how I work.
+
+Alongside my Android work, I'm exploring backend development with Kotlin — applying that same
+clean-architecture mindset to the server side.
 
 ## Tech
 
-**Mobile**
-`Kotlin` · `Android SDK` · `Jetpack` · `Coroutines`
+**Android**
+`Kotlin` · `Jetpack Compose` · `Coroutines` · `MVVM` · `Clean Architecture` · `Modularization` · `Koin` · `Retrofit` · `Unit / UI Testing`
 
-**Backend** *(in progress)*
+**Backend** *(learning)*
 `Kotlin` · `Spring Boot` · `Hexagonal Architecture` · `JPA` · `JWT` · `REST / OpenAPI`
 
 **Tooling**
-`Gradle` · `Git` · `JUnit` · `Testcontainers`
+`Gradle` · `Git` · `CI/CD (GitHub Actions)` · `Firebase`
+
+## Apps I've worked on
+
+- **[InfoJobs](https://play.google.com/store/apps/details?id=net.infojobs.mobile.android)** — Core Android team member of one of Spain's leading job marketplaces (10M+ downloads).
+- **[Meep](https://play.google.com/store/apps/details?id=app.meep)** — Founding Android developer of a multimodal mobility (MaaS) app.
 
 ## Featured project
 
 ### [fincaria](https://github.com/PedroARuiz/fincaria)
 
-A backend written in Kotlin with Spring Boot, following hexagonal architecture
-(ports & adapters). It features JWT authentication, JPA persistence, and an
-OpenAPI-documented REST API, with a strong focus on clean design and automated testing.
+My backend learning project: a REST API written in Kotlin with Spring Boot, following
+hexagonal architecture (ports & adapters), with JWT authentication, JPA persistence,
+and OpenAPI docs — built with a strong focus on clean design and automated testing.
 
-It's also my learning ground for backend engineering. The roadmap includes native
-Android and iOS clients once the backend matures — turning it into a full end-to-end showcase.
+The roadmap includes native Android and iOS clients once the backend matures, turning it
+into a full end-to-end showcase.
 
 ## Let's connect
 
